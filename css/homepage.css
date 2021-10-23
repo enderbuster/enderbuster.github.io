@@ -1,0 +1,35 @@
+*{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+#input_baidu{
+    width:400px;
+    height:30px;
+}
+a{
+    text-decoration: none;
+    font-size:15px;
+}
+li{
+    float:left;
+    list-style-type: none;
+    width: 110px;
+    line-height: 40px;
+}
+ul{
+    clear: both;
+    float:none;
+    display: inline-block;
+}
+nav{
+    background-color: bisque;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+a:visited{
+    color: currentColor;
+}
+a:hover{
+    background: darkgoldenrod;
+}
